@@ -308,15 +308,7 @@ window.onload=JSFX.FWStart;
 				
 				<span id="lasttweet"></span>					
 				<div class="login_absolute">
-				<form class="login-form" action="http://localhost/pamt/login/" method="post" style="position:relative; margin-top:-20px;">
-					  <input size="35" class="form-control placeholder-no-fix" type="hidden" autocomplete="off" placeholder="User Name/Email" name="user_name" value="admin" id="user_name" />
-					   <input size="35" class="form-control placeholder-no-fix" type="hidden" autocomplete="off" placeholder="Password" id="password" value="pamtbrm123" name="password" />
-					  <input type="hidden" name="ssubmit" value="1" />
-					  
-					  <button type="submit" class="btn green pull-center">
-						Welcome To PAMT web version 
-					  </button>
-				  </form>
+				Text Box
 				</div>
 					
 			</div>
